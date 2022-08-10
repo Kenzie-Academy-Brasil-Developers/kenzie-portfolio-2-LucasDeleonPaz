@@ -92,8 +92,8 @@ export const GlobalStyle: React.FC<GlobalStyleProps> = ({ children }) => {
       brand7: "#506CCF",
       brand8: "#E5E9F8",
 
-      grey0: "#0A0A0B",
-      grey1: "#121214",
+      grey0: "#1f1b24",
+      grey1: "#2f2b33",
       grey2: "#868E96",
       grey3: "#E9ECEF",
       grey4: "#F8F9FA",
